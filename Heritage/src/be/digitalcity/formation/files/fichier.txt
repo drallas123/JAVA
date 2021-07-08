@@ -1,0 +1,3 @@
+Bonjour voici un fichier que l'on va tenter de lire avec Java
+
+On y croit !
